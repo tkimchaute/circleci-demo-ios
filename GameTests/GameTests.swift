@@ -22,7 +22,7 @@ class GameTests: XCTestCase {
     }
     
     func testExample() {
-        print("test2")
+        print("test3")
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }

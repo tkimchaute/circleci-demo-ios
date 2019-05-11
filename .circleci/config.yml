@@ -61,7 +61,7 @@ workflows:
       - adhoc:
           filters:
             branches:
-              only: development
+              only: chau_branch
           requires:
             - build-and-test
       #- beta:
